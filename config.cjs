@@ -29,9 +29,7 @@ module.exports = {
   "OWNER_REACT": false,
   "EMOJI": "🏷",
   "AI_MODE": false,
-  "BANNED": [
-    "94717775628@s.whatsapp.net"
-  ],
+  "BANNED": [],
   "SUDO": [
     "94717775628"
   ]
