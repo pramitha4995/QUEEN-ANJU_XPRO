@@ -1,7 +1,7 @@
 <div class = "repo" align = "center">
  
 <a href = "#">
-<img src = "https://raw.githubusercontent.com/RASH-DATA/ANJU-DATA/refs/heads/main/LOGOS/IMG-20241223-WA0023.jpg"  width="540" height="300">
+<img src = ""  width="640" height="309">
 </img>
  
 ---
