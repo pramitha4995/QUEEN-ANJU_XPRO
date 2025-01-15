@@ -18,15 +18,12 @@
 
 ---
 
-### 📊 Visitor Count
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Mrrashmika&icon=7&color=0" alt="Visitor Count"/>
-</p>
----
 <p align="center">
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="nz" width="700"/>
 </p>
+
 ---
+
 <p align="center">
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-GAMING_RASH-red.svg?style=for-the-badge&logo=github"></a>
 <a href="#"><img title="LOGO DESIGNER" src="https://img.shields.io/badge/LOGO_DESIGNER-NIKO_PAMIYA-red.svg?style=for-the-badge&logo=github"></a>
