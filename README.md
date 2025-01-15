@@ -5,10 +5,19 @@
 </img>
  <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=FF1043&lines=Welcome+to+my+Repository!;Full-Stack+Developer+and+Enthusiast;Thanks+for+visiting!"/>
+    <img src="https://readme-typing-svg.herokuapp.com?color=FF1043&lines=Welcome+to+my+Repository!;QUEEN-ANJU+XPRO;Thanks+for+visiting!"/>
   </a>
 </p>
-      <p align="center">
+
+ ---
+
+### 🏆 GitHub Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mrrashmika&theme=darkhub&no-frame=true&margin-w=4"/>
+</p>
+
+---
+<p align="center">
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-GAMING_RASH-red.svg?style=for-the-badge&logo=github"></a>
 <a href="#"><img title="LOGO DESIGNER" src="https://img.shields.io/badge/LOGO_DESIGNER-NIKO_PAMIYA-red.svg?style=for-the-badge&logo=github"></a>
 
