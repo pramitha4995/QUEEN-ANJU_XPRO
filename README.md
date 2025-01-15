@@ -5,9 +5,9 @@
 </img>
  
 ---
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=FF1043&lines=Welcome+to+my+Repository!;QUEEN-ANJU+XPRO;Thanks+for+visiting!"/>
-  </a>
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=FF1043&lines=Welcome+to+my+Repository!;QUEEN+ANJU+XPRO;Thanks+for+visiting!"/>
+</a>
 
 ---
 
@@ -16,6 +16,16 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Mrrashmika&theme=darkhub&no-frame=true&margin-w=4"/>
 </p>
 
+---
+
+### 📊 Visitor Count
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Mrrashmika&icon=7&color=0" alt="Visitor Count"/>
+</p>
+---
+<p align="center">
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="nz" width="700"/>
+</p>
 ---
 <p align="center">
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-GAMING_RASH-red.svg?style=for-the-badge&logo=github"></a>
