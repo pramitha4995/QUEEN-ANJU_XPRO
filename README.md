@@ -3,13 +3,13 @@
 <a href = "#">
 <img src = "https://raw.githubusercontent.com/RASH-DATA/ANJU-DATA/refs/heads/main/LOGOS/IMG-20241223-WA0023.jpg"  width="540" height="300">
 </img>
- <p align="center">
+ 
+---
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?color=FF1043&lines=Welcome+to+my+Repository!;QUEEN-ANJU+XPRO;Thanks+for+visiting!"/>
   </a>
-</p>
 
- ---
+---
 
 ### 🏆 GitHub Achievements
 <p align="center">
