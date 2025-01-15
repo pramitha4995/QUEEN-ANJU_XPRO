@@ -33,7 +33,7 @@
 <p align="center">
 <a href="https://github.com/Mrrashmika?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Mrrashmika?color=green&style=flat-square"></a>
 <a href="https://github.com/Mrrashmika/QUEEN-ANJU_XPRO/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Mrrashmika/QUEEN-ANJU_XPRO?color=white&style=flat-square"></a>
-<a href="https://github.com/Mrrashmika/QUEEN-ANJU_XPRO/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Mrrashmika/QQUEEN-ANJU_XPRO?color=yellow&style=flat-square"></a>
+<a href="https://github.com/Mrrashmika/QUEEN-ANJU_XPRO/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Mrrashmika/QUEEN-ANJU_XPRO?color=yellow&style=flat-square"></a>
 <a href="https://github.com/Mrrashmika/QUEEN-ANJU_XPRO/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Mrrashmika/QUEEN-ANJU_XPRO?label=Watchers&color=red&style=flat-square"></a>
 <a href="https://github.com/Mrrashmika/QUEEN-ANJU_XPRO"><img title="Size" src="https://img.shields.io/github/repo-size/Mrrashmika/QUEEN-ANJU_XPRO?style=flat-square&color=darkred"></a>
 <a href="https://github.com/Mrrashmika/QUEEN-ANJU_XPRO/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained-No-red.svg"></a>&nbsp;&nbsp;
